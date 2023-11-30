@@ -1,0 +1,7 @@
+body {
+    background-image: url('https://www.pescar.org.ar/wp-content/uploads/2021/10/Home-slider1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Esto mantiene la imagen fija mientras se desplaza */
+    background-position: center center; 
+  }
